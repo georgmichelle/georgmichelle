@@ -14,10 +14,36 @@
 
 Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep passion for creating immersive, high-performance experiences. Whether it's building **real-time applications** ⚡ or crafting **2D games** 🎮, I’m always focused on optimizing performance and making user experiences seamless.
 
-- **Languages & Tools:** C++, Python, JavaScript, Java, C, HTML, CSS, Firebase 🛠️
-- **Competitions:** Actively involved in **programming challenges** 🏆.
-- **Languages:** Fluent in multiple languages 🌍, always looking to expand my linguistic and technical knowledge.  
-- **Mindset:** Focused on **innovation**, **learning** 📚, and **collaboration** 🤝.
+- **Languages & Tools:** C++, Python, JavaScript, Java, C, HTML, CSS, Firebase 🛠️  
+- **Competitions:** Actively involved in **programming challenges** 🏆  
+- **Languages:** Fluent in multiple languages 🌍  
+- **Mindset:** Focused on **innovation**, **learning** 📚, and **collaboration** 🤝  
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgmichelle&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgmichelle&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contributions Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/api?username=georgmichelle&bg_color=000000&color=58a6ff&line=ffffff&point=ff0000&area=true&area_color=58a6ff" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgmichelle&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
 ---
 
 ## 🌍 Let's Connect  
