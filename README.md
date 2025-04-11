@@ -31,13 +31,7 @@ Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep 
 ---
 ## 📈 Contributions Overview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/4-productive-time.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/0-profile-details.svg" />
 ---
 
 ## 💻 Most Used Languages
