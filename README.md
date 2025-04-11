@@ -29,10 +29,6 @@ Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep 
 </p>
 
 ---
-## 📈 Contributions Overview
-
-<img src="https://raw.githubusercontent.com/georgmichelle/georgmichelle/main/profile-summary-card-output/monokai/0-profile-details.svg" />
----
 
 ## 💻 Most Used Languages
 
