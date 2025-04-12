@@ -25,7 +25,7 @@ I'm a passionate technologist specializing in high-performance applications and 
 - 🚀 **Currently Building**: Next-gen game engine components
 - 📚 **Learning**: Vulkan API • Rust • Real-time rendering techniques
 - 🏆 **Competitive Programming**: Codeforces • LeetCode • Hackathons
-- 🌍 **Languages**: English (Fluent) • Spanish (Intermediate)
+- 🌍 **Languages**: English (Fluent) • Arabic
 
 ---
 
