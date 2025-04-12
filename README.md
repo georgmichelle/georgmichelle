@@ -1,59 +1,79 @@
-<h1 align="center">🚀 Welcome to My GitHub</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgmichelle18&label=Profile%20views&color=0e75b6&style=flat" alt="georgmichelle" /> </p>
+<h1 align="center">🚀 Georg Michelle | Software Developer & Game Designer</h1>
+
 <p align="center">
-  <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/hacker.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Building+the+Future+Through+Code;Crafting+Immersive+Digital+Experiences;Turning+Ideas+Into+Reality;Innovating+One+Commit+at+a+Time" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23F7F7F7&size=22&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Game+Designer;Building+Innovative+Applications;Passionate+about+Tech+%26+Design;Merging+Creativity+with+Code;Pushing+Limits+Every+Day">
+  <img src="https://komarev.com/ghpvc/?username=georgmichelle18&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/georgmichelle?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
 </p>
 
----
-
-## 💼 About Me  
-
-Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep passion for creating immersive, high-performance experiences. Whether it's building **real-time applications** ⚡ or crafting **2D games** 🎮, I’m always focused on optimizing performance and making user experiences seamless.
-
-- **Languages & Tools:** C++, Python, JavaScript, Java, C, HTML, CSS, Firebase 🛠️  
-- **Competitions:** Actively involved in **programming challenges** 🏆  
-- **Languages:** Fluent in multiple languages 🌍  
-- **Mindset:** Focused on **innovation**, **learning** 📚, and **collaboration** 🤝  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 🔥 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgmichelle&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgmichelle&theme=radical" alt="GitHub Streak" />
-</p>
+💻 **Full-Stack Developer** | 🎮 **Game Engine Programmer** | ⚡ **Performance Optimizer**
 
----
+I'm a passionate technologist specializing in high-performance applications and game development. My work focuses on merging technical excellence with creative design to build memorable digital experiences.
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgmichelle&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+- 🛠 **Core Stack**: C++ • Python • JavaScript • Unity • GeoX
+- 🚀 **Currently Building**: Next-gen game engine components
+- 📚 **Learning**: Vulkan API • Rust • Real-time rendering techniques
+- 🏆 **Competitive Programming**: Codeforces • LeetCode • Hackathons
+- 🌍 **Languages**: English (Fluent) • Spanish (Intermediate)
 
 ---
 
-## 🌍 Let's Connect  
+## 🛠 **Technical Arsenal**
 
-Feel free to reach out to me anytime! I’m always open to **collaborations**, **learning opportunities**, and discussing new tech trends.
+### **Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  </p>
 
-- **GitHub:** [Click Here](https://github.com/georgmichelle)
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-%E2%9C%94-blue?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Designer-%E2%9C%94-blue?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solver-%E2%9C%94-blue?style=flat&logo=github&logoColor=white" />
+### **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">"Code is not just instructions, it's a canvas for innovation."</h3>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgmichelle&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=georgmichelle&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgmichelle&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
 
 ---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/georg-michelle100?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:geeg40283@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">"We don't just write code - we craft experiences that push boundaries."</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" />
+</div>
