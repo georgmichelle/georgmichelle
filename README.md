@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/github/followers/georgmichelle?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
-</div>
+
 
 ---
 
